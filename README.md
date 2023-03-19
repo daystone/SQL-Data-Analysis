@@ -17,7 +17,7 @@ A collection of SQL projects and challenges
   
 ## Projects and Challenges
 
-### Sample Store Database Exploration
+### [Sample Store Database Exploration](https://github.com/daystone/SQL-Data-Analysis/tree/main/Sample%20Store%20-%20SQL)
 MySQL project that examines various relationships a store might have between employees, inventory, orders, etc...
 - Return all orders placed in after a specific year
 - Return all orders that meet specific criteria
@@ -25,7 +25,7 @@ MySQL project that examines various relationships a store might have between emp
 - Inner joins, outer joins, self joins, cross joins, UNION
 - USING keyword to simplify code
 
-### Superhero Database Exploration
+### [Superhero Database Exploration](https://github.com/daystone/SQL-Data-Analysis/tree/main/Superhero%20-%20MySQL)
 MySQL project that takes a robust superhero database and runs queries to answer the following questions: 
 - Which characters are DC or Marvel property and how many are there?
 - Which powers are most prevelant amongst characters?
